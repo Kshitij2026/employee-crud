@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Manager — 3-tier AWS CRUD project
 
 ## Architecture
@@ -40,3 +41,6 @@
 - Do not put AWS access keys in React, frontend environment variables, GitHub, or source code.
 - S3 objects stay private; API returns short-lived presigned image URLs.
 - Add HTTPS, authentication, input validation, backups, and monitoring before production use.
+=======
+# employee-crud
+>>>>>>> b780089121fb342b8903a3ae9a6e0bcd1107ee8b
